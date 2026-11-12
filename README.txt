@@ -1,16 +1,13 @@
 SITE IMPAKT — GITHUB PAGES
 
-1. Ouvrir le dépôt GitHub associé à https://entrepriseimpakt-afk.github.io/
-2. Upload files (Add file > Upload files) et envoyer TOUS les fichiers HTML + style.css à la RACINE du dépôt (sans le dossier impakt-site).
-3. Vérifier Settings > Pages > Deploy from a branch > main > /(root).
-4. Ouvrir https://entrepriseimpakt-afk.github.io/.
+Tous les fichiers contenus dans cette archive doivent être placés à la racine du dépôt entrepriseimpakt-afk.github.io (branche main).
 
 Pages :
-https://entrepriseimpakt-afk.github.io/confidentialite.html
-https://entrepriseimpakt-afk.github.io/conditions.html
-https://entrepriseimpakt-afk.github.io/contact.html
-https://entrepriseimpakt-afk.github.io/suppression-compte.html
+- index.html : accueil
+- confidentialite.html : modèle général de politique de confidentialité
+- conditions.html : conditions générales du site, à adapter aux applications
+- contact.html : contact et coordonnées
+- mentions-legales.html : identification légale de l’éditeur
+- suppression-compte.html : modèle de procédure de suppression
 
-IMPORTANT : compléter tous les champs [À COMPLÉTER] et adapter la politique aux traitements réels de chaque application avant soumission aux stores. Les champs d'email restent volontairement vides.
-
-Contact : entrepriseimpakt@gmail.com
+ATTENTION : pour les applications publiées sur Google Play et App Store, documenter précisément les traitements de données, prestataires, achats, abonnements et suppression de compte réels. Les modèles comportent encore des éléments à personnaliser.
